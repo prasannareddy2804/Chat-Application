@@ -30,9 +30,12 @@ java Client
 - If either user enters "exit", the connection closes.
 
 ## Code Structure
-📂 Chat-Application 
+```bash
+Chat-Application
 ├── Server.java   # Server-side implementation
-├── Client.java   # Client-side implementation 
-├── README.md     # Project documentation
+├── Client.java   # Client-side implementation
+└── README.md     # Project documentation
+|__ output_image.png # Output 
+```
 
-
+![Chat Application Output](https://github.com/prasannareddy2804/Chat-Application/blob/main/output_image.png)
